@@ -9,7 +9,7 @@
   <a href="vikashkumarbth381@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <h4>🔭  I’m currently working with ...</h4>
-<div align="left" style="background-color: #f2f2f2; padding: 10px;">
+<div align="right" style="background-color: #f2f2f2; padding: 10px;">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=blue" alt="C++" />
 <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=C&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=yellow" alt="Python" />
